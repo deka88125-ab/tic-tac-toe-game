@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe - Neo Arcade",
+  "description": "Vibrant and responsive Tic Tac Toe game with 2-Player mode, smart AI with Easy/Medium/Hard difficulties, sound effects, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
